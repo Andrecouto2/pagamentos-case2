@@ -1,4 +1,4 @@
-package br.com.mastertech.couto.pagamentos.client;
+package br.com.mastertech.couto.pagamentos.decoder;
 
 import br.com.mastertech.couto.pagamentos.exception.CardNotFoundException;
 import feign.Response;
